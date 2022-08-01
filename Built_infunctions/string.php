@@ -40,11 +40,7 @@ echo "<br>";
 //strtolower - whole string to lowercase
 echo strtolower("What is your name?" . "<br>");
 
-    
-    
-    
-    
-    
+        
     
 ?>
     
