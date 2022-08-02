@@ -1,6 +1,7 @@
 <?php
-require_once 'includes/database.php';
-require_once 'register-inc.php';
+    session_start();
+    require_once 'includes/database.php';
+    require_once 'includes/register-inc.php';
 ?>
 <html>
 <head>
