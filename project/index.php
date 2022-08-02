@@ -1,12 +1,12 @@
 <?php
-require_once 'includes/database.php';
+require_once 'includes/header.php';
+    
 ?>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-$conn
-</body>
-</html>
+
+
+HOME
+
+
+<?php
+require_once 'includes/footer.php';
+?>
