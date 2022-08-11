@@ -13,7 +13,7 @@ $cookie = 1;
     
 do {
     echo "I love cookies! <br>";
-    $cookie +=4;
+    $cookie +=2;
 } while ($cookie <= 10);
 
 ?>
